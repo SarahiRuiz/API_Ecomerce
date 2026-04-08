@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace API_Ecommerce.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20260401190852_InitialCreate")]
+    [Migration("20260408134458_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -24,10 +24,6 @@ namespace API_Ecommerce.Data.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
-
-                    b.Property<string>("Brand")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
 
                     b.Property<string>("Description")
                         .IsRequired()

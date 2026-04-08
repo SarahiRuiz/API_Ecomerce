@@ -26,8 +26,7 @@ namespace API_Ecommerce.Data
                     Name = "Product Ale",
                     Description = "Description for product 1",
                     Price = 10.99m,
-                    PictureUrl = "https://example.com/product1.jpg",
-                    Brand = "Brand A",
+                    PictureUrl = "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/Homepage_Download-Launcher_Creeper-Logo-Takeover_500x500.png",
                     Type = "Type X"
                 },
                 new Product
@@ -35,8 +34,7 @@ namespace API_Ecommerce.Data
                     Name = "Product Sara",
                     Description = "Description for product 2",
                     Price = 20.99m,
-                    PictureUrl = "https://example.com/product2.jpg",
-                    Brand = "Brand B",
+                    PictureUrl = "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/2F60018A-7D11-48CA-BB83-B32497E02BF5/Derivates/bc77ea56-073d-4648-82a4-0782bbf1d37c.jpg",
                     Type = "Type Y"
                 },
                 // Add more products as needed

@@ -148,3 +148,5 @@ C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\bi
 C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\bin\Debug\net10.0\package-lock.json
 C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\bin\Debug\net10.0\package.json
+C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\obj\Debug\net10.0\API_Ecommerce.sourcelink.json
+C:\Users\Ana.Ruiz\source\MyTranning\API_Ecommerce\API_Ecommerce\API_Ecommerce\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
